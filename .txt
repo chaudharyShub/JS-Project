@@ -1,0 +1,22 @@
+const itemsArray = [
+    {
+        id: 'leftContainerArray',
+        array: ['Mobile', 'Web', 'Design', 'QA']
+    },
+    {
+        id: 'MobileItemsArray',
+        array: ['Android', 'iOS', 'Flutter', 'React Native']
+    },
+    {
+        id: 'WebItemsArray',
+        array: ['HTML', 'React.Js', 'Angular', 'JavaScript', 'PHP', 'CSS', 'Node.Js', '.Net', 'MongoDB', 'MySQL']
+    },
+    {
+        id: 'DesignItemsArray',
+        array: ['UI-UX Design', 'Motion Design', 'Graphic Design']
+    },
+    {
+        id: 'QAItemsArray',
+        array: ['Manual testing', 'API Testing', 'Automation Testing', 'Appium', 'Selenium']
+    }
+];
